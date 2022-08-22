@@ -163,7 +163,7 @@ const styles = StyleSheet.create({
   scanbutton: {
     width: 100,
     height: 50,
-    backgroundColor: "#9DFD24",
+    backgroundColor: "blue",
     borderTopRightRadius: 10,
     borderBottomRightRadius: 10,
     justifyContent: "center",
